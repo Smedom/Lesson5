@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NewTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-21T12:00:45" hostname="DESKTOP-HTM6MAV" time="0.03">
+  <properties/>
+  <testcase name="newTest()" classname="NewTest" time="0.03"/>
+  <system-out><![CDATA[2
+3
+4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
